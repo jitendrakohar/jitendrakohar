@@ -4,6 +4,14 @@
 <div align="center">background in Computer Science and worked on a various android project with  kotlin, java, dart. Intend to build a career with company of hi-tech environment with committed & dedicated people, which will help me to realize my potential. Willing to work as a key player in challenging and creative environment.</div>
 
 
+<p>
+
+
+  
+</p>
+
+
+
 
 - 🔭 I’m currently working on **Outthinking pvt ltd**
 
