@@ -4,11 +4,6 @@
 <div align="center">background in Computer Science and worked on a various android project with  kotlin, java, dart. Intend to build a career with company of hi-tech environment with committed & dedicated people, which will help me to realize my potential. Willing to work as a key player in challenging and creative environment.</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrakohar&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrakohar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendrakohar" alt="jitendrakohar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jitendrakohar34" target="blank"><img src="https://img.shields.io/twitter/follow/jitendrakohar34?logo=twitter&style=for-the-badge" alt="jitendrakohar34" /></a> </p>
 
 - 🔭 I’m currently working on **Outthinking pvt ltd**
 
@@ -18,7 +13,7 @@
 
 - 🤝 I’m looking for referal in **top MNC Company for flutter Roles**
 
-- 👨‍💻 All of my projects are available at [https://jitendrakohar.github.io/portfolio/](https://jitendrakohar.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://jitendrakohar.github.io/flutterwebproject/](https://jitendrakohar.github.io/flutterwebproject/)
 
 - 📝 I regularly write articles on [www.medium.com](www.medium.com)
 
