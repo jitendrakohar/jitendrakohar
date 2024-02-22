@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jitendrakohar.github.io/Jitendra_kohar/](https://jitendrakohar.github.io/Jitendra_kohar/)
 
-- 📝 I regularly write articles on [[www.medium.com](https://medium.com/@jitendrakohar05)](https://medium.com/@jitendrakohar05)
+- 📝 I regularly write articles on [https://medium.com/@jitendrakohar05](https://medium.com/@jitendrakohar05)
 
 - 💬 Ask me about **android, kotlin, java, and flutter**
 
