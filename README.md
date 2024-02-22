@@ -21,15 +21,15 @@
 
 - 🤝 I’m looking for referal in **top MNC Company for flutter Roles**
 
-- 👨‍💻 All of my projects are available at [https://jitendrakohar.github.io/flutterwebproject/](https://jitendrakohar.github.io/flutterwebproject/)
+- 👨‍💻 All of my projects are available at [https://jitendrakohar.github.io/Jitendra_kohar/](https://jitendrakohar.github.io/Jitendra_kohar/)
 
-- 📝 I regularly write articles on [www.medium.com](www.medium.com)
+- 📝 I regularly write articles on [[www.medium.com](https://medium.com/@jitendrakohar05)](https://medium.com/@jitendrakohar05)
 
 - 💬 Ask me about **android, kotlin, java, and flutter**
 
 - 📫 How to reach me **jitendrakohar05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dNa777Pr09dKQWUAMpvsRzbKbUhi6Mcl/view?usp=sharing](https://drive.google.com/file/d/1dNa777Pr09dKQWUAMpvsRzbKbUhi6Mcl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OA8FQw3cT_fm4AxpPOjEgcI-A58gj0Cl/view](https://drive.google.com/file/d/1OA8FQw3cT_fm4AxpPOjEgcI-A58gj0Cl/view)
 
 - ⚡ Fun fact **I think i am workaholic person, and also loves enjoying a music**
 
