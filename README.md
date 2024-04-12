@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for referal in **top MNC Company for flutter Roles**
 
-- 👨‍💻 All of my projects are available at [https://jitendrakohar.github.io/Jitendra_kohar/](https://jitendrakohar.github.io/Jitendra_kohar/)
+- 👨‍💻 All of my projects are available at [https://jitendrakohar.tech/](https://jitendrakohar.tech/)
 
 - 📝 I regularly write articles on [https://medium.com/@jitendrakohar05](https://medium.com/@jitendrakohar05)
 
