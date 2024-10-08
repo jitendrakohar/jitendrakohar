@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style='color: red;'>JITENDRA KOHAR</span></h1>
 
-<h3 align='center'>Professional iOS and Flutter application Developer with 1+ years of experience at outthinking pvt ltd</h3>
+<h3 align='center'>Professional Software Enginner | AI Developer with 2+ years of experience at outthinking pvt ltd</h3>
 <div align="center">background in Computer Science and worked on a various android project with  kotlin, java, dart. Intend to build a career with company of hi-tech environment with committed & dedicated people, which will help me to realize my potential. Willing to work as a key player in challenging and creative environment.</div>
 
 
@@ -11,27 +11,30 @@
 </p>
 
 
+### 🔭 Currently working on **Outthinking Pvt Ltd**
 
+### 👨‍💻 All of my projects are available at [https://jitendrakohar.tech/](https://jitendrakohar.tech/)
 
-- 🔭 I’m currently working on **Outthinking pvt ltd**
+### 📝 I regularly write articles on [https://medium.com/@jitendrakohar05](https://medium.com/@jitendrakohar05)
 
-- 🌱 I’m currently learning **Flutter Redux, Flutter Secure Storage, and Flutter Bloc**
+### 💬 Ask me about **Python, AI, generative AI, RestFul Api, kotlin, java, flutter **
 
-- 👯 I’m looking to collaborate on **flutter opensource**
+### 🤖 AI Expertise
+- Proficient in **Python** for machine learning and AI projects.
+- Skilled in frameworks like **Scikit-learn, TensorFlow, Keras,** and **PyTorch**.
+- Experienced with statistical and data analysis, building and deploying ML models, and implementing best practices in AI software development.
 
-- 🤝 I’m looking for referal in **top MNC Company for flutter Roles**
+### 🧠 Generative AI Tools & Technologies
+- Knowledgeable in **Generative Adversarial Networks (GANs)** for generating realistic images, audio, and text.
+- Experienced with **Natural Language Processing (NLP)** and language models for text generation tasks.
+- Familiar with tools like **OpenAI’s GPT, DALL-E**, and **Stable Diffusion** for creative AI applications.
 
-- 👨‍💻 All of my projects are available at [https://jitendrakohar.tech/](https://jitendrakohar.tech/)
+### 📫 How to reach me **jitendrakohar05@gmail.com**
 
-- 📝 I regularly write articles on [https://medium.com/@jitendrakohar05](https://medium.com/@jitendrakohar05)
+### 📄 Know about my experiences [https://drive.google.com/file/d/1OA8FQw3cT_fm4AxpPOjEgcI-A58gj0Cl/view](https://drive.google.com/file/d/1OA8FQw3cT_fm4AxpPOjEgcI-A58gj0Cl/view)
 
-- 💬 Ask me about **android, kotlin, java, and flutter**
+### ⚡ Fun fact: **I think I am a workaholic and also enjoy listening to music**
 
-- 📫 How to reach me **jitendrakohar05@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OA8FQw3cT_fm4AxpPOjEgcI-A58gj0Cl/view](https://drive.google.com/file/d/1OA8FQw3cT_fm4AxpPOjEgcI-A58gj0Cl/view)
-
-- ⚡ Fun fact **I think i am workaholic person, and also loves enjoying a music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
