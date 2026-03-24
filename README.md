@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://qply.io">Qply — AI-Powered Live Chat Widget for Any Website</a> •
-  <a href="https://apptesterhub.com/">🚀 AppTesterHub</a> •
-  <a href="https://medium.com/@jitendrakohar05">✍️ Medium</a> •
+ <a href="https://qply.io">💬 Qply.io</a> •
+<a href="https://apptesterhub.com/">🚀 AppTesterHub</a> •
+<a href="https://periody.app">🌸 Periody</a> •
   <a href="mailto:jitendrakohar05@gmail.com">📧 Email</a>
 </p>
 
@@ -30,7 +30,24 @@
 
 ---
 
-## 🌟 Featured Product — AppTesterHub
+## 💬 Featured Product — Qply.io
+
+**Qply.io** is an AI-powered live chat widget that enables websites to **engage, support, and convert users in real time**.
+
+**What I built:**
+- 🔹 AI-powered chat system for automated responses
+- 🔹 Embeddable widget for any website
+- 🔹 Real-time messaging infrastructure
+- 🔹 Backend APIs & scalable architecture
+- 🔹 Clean UI for seamless user interaction
+
+🌐 **Live:** https://qply.io  
+
+> This project showcases my ability to build **AI-driven SaaS tools focused on user engagement and automation.**
+
+ ---
+
+## 🚀 Featured Product — apptesterhub.com
 
 **AppTesterHub** is a developer-focused SaaS platform that helps teams **test, validate, and improve mobile applications** before release.
 
@@ -45,6 +62,22 @@
 
 > This project reflects my ability to **design, build, deploy, and maintain a real-world SaaS product independently.**
 
+
+ ---
+
+## 🌸 Featured Product — Periody.app
+
+**Periody.app** is a modern wellness app designed to help women **track menstrual cycles with a clean, calming, and intuitive experience**.
+
+**What I built:**
+- 🔹 Beautiful, minimal UI focused on user comfort
+- 🔹 Cycle tracking & prediction system
+- 🔹 Thoughtful UX for sensitive health data
+- 🔹 Scalable Flutter architecture
+
+🌐 **Live:** https://periody.app  
+
+> This project highlights my focus on **user-centric design and building meaningful consumer apps.**
 ---
 
 ## 🔭 Currently Working On
