@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jitendrakohar.tech/">🌐 Portfolio</a> •
+  <a href="https://qply.io">Qply — AI-Powered Live Chat Widget for Any Website</a> •
   <a href="https://apptesterhub.com/">🚀 AppTesterHub</a> •
   <a href="https://medium.com/@jitendrakohar05">✍️ Medium</a> •
   <a href="mailto:jitendrakohar05@gmail.com">📧 Email</a>
